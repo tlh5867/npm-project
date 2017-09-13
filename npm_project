@@ -1,0 +1,19 @@
+#npm project
+## installation
+ install you dependencies with 'npm'
+
+ npm install
+..............
+
+ ## Build
+
+ Build this project by running
+
+
+ ..............
+ npm run build
+ ..............
+
+ ## Usage
+
+ open `public/index.html` in your browser
